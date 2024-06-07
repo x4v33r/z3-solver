@@ -1,1 +1,1 @@
-Jan Luttenberger 12103735
+An approach to solve logic problems
